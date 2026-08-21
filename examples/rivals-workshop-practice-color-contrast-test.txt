@@ -1,0 +1,13 @@
+# 明るい色と暗い色を見分けるためのオンライン確認用設定
+local_1p_main=#FF0000
+local_1p_dark=#000000
+local_2p_main=#0000FF
+local_2p_dark=#000000
+local_3p_main=#00FF00
+local_3p_dark=#000000
+local_4p_main=#FFFF00
+local_4p_dark=#000000
+online_self_main=#FFFF00
+online_self_dark=#FF0000
+online_opponent_main=#00FFFF
+online_opponent_dark=#00FF00
